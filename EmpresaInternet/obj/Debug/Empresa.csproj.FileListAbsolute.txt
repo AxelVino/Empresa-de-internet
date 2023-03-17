@@ -1,0 +1,13 @@
+C:\Users\N.Sagradin\OneDrive\Documentos\SharpDevelop Projects\Proyecto3.1\EmpresaInternet\bin\Debug\Empresa.exe.config
+C:\Users\N.Sagradin\OneDrive\Documentos\SharpDevelop Projects\Proyecto3.1\EmpresaInternet\bin\Debug\Empresa.exe
+C:\Users\N.Sagradin\OneDrive\Documentos\SharpDevelop Projects\Proyecto3.1\EmpresaInternet\bin\Debug\Empresa.pdb
+C:\Users\N.Sagradin\OneDrive\Documentos\SharpDevelop Projects\Proyecto3.1\EmpresaInternet\obj\Debug\Empresa.csprojResolveAssemblyReference.cache
+C:\Users\N.Sagradin\OneDrive\Documentos\SharpDevelop Projects\Proyecto3.1\EmpresaInternet\obj\Debug\Empresa.exe
+C:\Users\N.Sagradin\OneDrive\Documentos\SharpDevelop Projects\Proyecto3.1\EmpresaInternet\obj\Debug\Empresa.pdb
+C:\Users\Axel\Downloads\Proyecto3.1\EmpresaInternet\bin\Debug\Empresa.exe.config
+C:\Users\Axel\Downloads\Proyecto3.1\EmpresaInternet\bin\Debug\Empresa.exe
+C:\Users\Axel\Downloads\Proyecto3.1\EmpresaInternet\bin\Debug\Empresa.pdb
+C:\Users\Axel\Downloads\Proyecto3.1\EmpresaInternet\obj\Debug\Empresa.csprojAssemblyReference.cache
+C:\Users\Axel\Downloads\Proyecto3.1\EmpresaInternet\obj\Debug\Empresa.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Downloads\Proyecto3.1\EmpresaInternet\obj\Debug\Empresa.exe
+C:\Users\Axel\Downloads\Proyecto3.1\EmpresaInternet\obj\Debug\Empresa.pdb
